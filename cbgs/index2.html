@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>SE eCatalog - Power WebGL RESPONSIVE test</title>
+    <link rel="shortcut icon" href="data_resp/favicon.ico">
+    <link rel="stylesheet" href="data_resp/style.css">
+    <script src="data_resp/UnityProgress.javascript"></script>
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+        var gameInstance = UnityLoader.instantiate("gameContainer", "Build/cbgs_ultra.png.json", {onProgress: UnityProgress});
+    </script>
+</head>
+<body>
+<div class="webgl-content">
+    <div id="gameContainer" style="width: 1024px; height: 768px"></div>
+</div>
+<script src="data_resp/responsive.javascript"></script>
+</body>
+</html>

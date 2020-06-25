@@ -3,12 +3,12 @@
 - [CBGS](CBGS/)
 - [EXE](EXE/)
 - GMAE
-- MTZ
-- P3
+- [MTZ](MTZ/)
+- [P3](P3/)
 - PREMSET
 - PREMSET_ANSI
 - RM6
 - RN2D
-- SM6
+- [SM6](SM6/)
 - [T300](T300/)
 - [TRIHAL](TRIHAL/)
